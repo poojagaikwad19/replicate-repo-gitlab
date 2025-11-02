@@ -1,0 +1,9 @@
+build:
+    script:
+        echo "building app"
+test:
+    script:
+        echo "testing app"
+deploy:
+    script:
+        echo "deploying on live server"
